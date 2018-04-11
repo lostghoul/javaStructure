@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+out
+.idea/encodings.xml
+.idea/kotlinc.xml
+.idea/misc.xml
+.idea/workspace.xml
+out/
